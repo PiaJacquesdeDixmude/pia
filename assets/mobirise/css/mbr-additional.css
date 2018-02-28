@@ -1328,13 +1328,13 @@ body {
   transition: box-shadow 0.3s;
 }
 .cid-qK80lzFLXe .navbar {
-  background: #000000;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qK80lzFLXe .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #ffffff;
 }
 .cid-qK80lzFLXe a {
   font-style: normal;
@@ -1418,7 +1418,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qK80lzFLXe .dropdown .dropdown-menu {
-  background: #000000;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1714,7 +1714,7 @@ body {
 }
 .cid-qK80lzFLXe .nav-link:hover,
 .cid-qK80lzFLXe .dropdown-item:hover {
-  color: #ffffff !important;
+  color: #767676 !important;
 }
 .cid-qKiqn7DAiW {
   padding-top: 0px;
@@ -1820,14 +1820,34 @@ body {
     padding: 0 0 2rem 0 !important;
   }
 }
+.cid-qKXmaRT3It {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-qKXmaRT3It h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qKXmaRT3It p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qKXmaRT3It .card-box {
+  padding-top: 2rem;
+}
+.cid-qKXmaRT3It .card-wrapper {
+  height: 100%;
+}
 .cid-qK80lzFLXe .navbar {
-  background: #000000;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qK80lzFLXe .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #ffffff;
 }
 .cid-qK80lzFLXe a {
   font-style: normal;
@@ -1911,7 +1931,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qK80lzFLXe .dropdown .dropdown-menu {
-  background: #000000;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1982,7 +2002,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qK80lzFLXe button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2207,7 +2227,7 @@ body {
 }
 .cid-qK80lzFLXe .nav-link:hover,
 .cid-qK80lzFLXe .dropdown-item:hover {
-  color: #ffffff !important;
+  color: #767676 !important;
 }
 .cid-qKcJt9fXYQ {
   padding-top: 105px;
